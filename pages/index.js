@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Ballast (par Grebett)" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Bonjour et bienvenue sur cette page en cours de construction.
         </p>
       </main>
 
